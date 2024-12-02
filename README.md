@@ -69,5 +69,6 @@ ii) Displays predictions and confidence scores interactively.
   i) Supervisor: Dr. Xin Guo, School of Information Technology and Electrical Engineering, University of Queensland.
   ii) Dataset: Kaggle (Taste the World: A Culinary Adventure : https://www.kaggle.com/datasets/harishkumardatalab/food-image-classification-dataset).
   iii) Frameworks Used: Python, Matplotlib, PyTorch, Streamlit.
+  iv) https://towardsdatascience.com/complete-architectural-details-of-all-efficientnet-models-5fd5b736142
   
 
